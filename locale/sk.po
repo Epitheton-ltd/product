@@ -1,0 +1,1030 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:product.uom:"
+msgid ""
+"If the UOM is still not used, you can delete it otherwise you can deactivate"
+" it and create a new one."
+msgstr ""
+
+msgctxt "error:product.uom:"
+msgid "Invalid Factor and Rate values in UOM \"%s\"."
+msgstr "Chybné hodnoty Faktor a Sadzba v merných jednotkách \"%s\"."
+
+msgctxt "error:product.uom:"
+msgid "Rate and factor can not be both equal to zero."
+msgstr "Sadzba a faktor nemôžu byť obidva nulové."
+
+msgctxt "error:product.uom:"
+msgid "You cannot change Rate, Factor or Category on a Unit of Measure."
+msgstr ""
+
+msgctxt "field:product.category,childs:"
+msgid "Children"
+msgstr "Sub-produkuty"
+
+msgctxt "field:product.category,create_date:"
+msgid "Create Date"
+msgstr "Dátum vytvorenia"
+
+msgctxt "field:product.category,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.category,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.category,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:product.category,parent:"
+msgid "Parent"
+msgstr "Rodič"
+
+msgctxt "field:product.category,rec_name:"
+msgid "Record Name"
+msgstr ""
+
+msgctxt "field:product.category,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.category,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.configuration,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.configuration,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.configuration,default_cost_price_method:"
+msgid "Default Cost Method"
+msgstr "Štandardný spôsob nákladov"
+
+msgctxt "field:product.configuration,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.configuration,rec_name:"
+msgid "Record Name"
+msgstr ""
+
+msgctxt "field:product.configuration,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.configuration,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.configuration.default_cost_price_method,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.configuration.default_cost_price_method,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt ""
+"field:product.configuration.default_cost_price_method,default_cost_price_method:"
+msgid "Default Cost Method"
+msgstr "Štandardný spôsob nákladov"
+
+msgctxt "field:product.configuration.default_cost_price_method,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.configuration.default_cost_price_method,rec_name:"
+msgid "Record Name"
+msgstr "Názov záznamu"
+
+msgctxt "field:product.configuration.default_cost_price_method,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.configuration.default_cost_price_method,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.cost_price,company:"
+msgid "Company"
+msgstr ""
+
+msgctxt "field:product.cost_price,cost_price:"
+msgid "Cost Price"
+msgstr "Náklady"
+
+msgctxt "field:product.cost_price,create_date:"
+msgid "Create Date"
+msgstr "Dátum vytvorenia"
+
+msgctxt "field:product.cost_price,create_uid:"
+msgid "Create User"
+msgstr "Vytvor používateľa"
+
+msgctxt "field:product.cost_price,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.cost_price,product:"
+msgid "Product"
+msgstr "Produkt"
+
+msgctxt "field:product.cost_price,rec_name:"
+msgid "Record Name"
+msgstr "Názov záznamu"
+
+msgctxt "field:product.cost_price,write_date:"
+msgid "Write Date"
+msgstr "Dátum zmeny"
+
+msgctxt "field:product.cost_price,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,company:"
+msgid "Company"
+msgstr "Spoločnosť"
+
+msgctxt "field:product.cost_price_method,cost_price_method:"
+msgid "Cost Price Method"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.cost_price_method,template:"
+msgid "Template"
+msgstr "Šablóna"
+
+msgctxt "field:product.cost_price_method,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.cost_price_method,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.list_price,company:"
+msgid "Company"
+msgstr "Spoločnosť"
+
+msgctxt "field:product.list_price,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.list_price,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.list_price,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.list_price,list_price:"
+msgid "List Price"
+msgstr ""
+
+msgctxt "field:product.list_price,rec_name:"
+msgid "Record Name"
+msgstr ""
+
+msgctxt "field:product.list_price,template:"
+msgid "Template"
+msgstr ""
+
+msgctxt "field:product.list_price,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.list_price,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.product,active:"
+msgid "Active"
+msgstr ""
+
+msgctxt "field:product.product,categories:"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "field:product.product,categories_all:"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "field:product.product,code:"
+msgid "Code"
+msgstr "Kód"
+
+msgctxt "field:product.product,consumable:"
+msgid "Consumable"
+msgstr "Spotreba"
+
+msgctxt "field:product.product,cost_price:"
+msgid "Cost Price"
+msgstr "Náklady"
+
+msgctxt "field:product.product,cost_price_method:"
+msgid "Cost Price Method"
+msgstr "Metóda nákladov"
+
+msgctxt "field:product.product,cost_price_methods:"
+msgid "Cost Price Methods"
+msgstr "Metódy nákladov"
+
+msgctxt "field:product.product,cost_price_uom:"
+msgid "Cost Price"
+msgstr "Náklady"
+
+msgctxt "field:product.product,cost_prices:"
+msgid "Cost Prices"
+msgstr "Náklady"
+
+msgctxt "field:product.product,create_date:"
+msgid "Create Date"
+msgstr "Dátum vytvorenia"
+
+msgctxt "field:product.product,create_uid:"
+msgid "Create User"
+msgstr "Vytvo používateľa"
+
+msgctxt "field:product.product,default_uom:"
+msgid "Default UOM"
+msgstr "Základná merná jednotka"
+
+msgctxt "field:product.product,default_uom_category:"
+msgid "Default UOM Category"
+msgstr "Základná kategória mernej jednotky"
+
+msgctxt "field:product.product,description:"
+msgid "Description"
+msgstr "Popis"
+
+msgctxt "field:product.product,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.product,list_price:"
+msgid "List Price"
+msgstr "Cenník"
+
+msgctxt "field:product.product,list_price_uom:"
+msgid "List Price"
+msgstr "Cenník"
+
+msgctxt "field:product.product,list_prices:"
+msgid "List Prices"
+msgstr "Cenníky"
+
+msgctxt "field:product.product,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:product.product,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.product,template:"
+msgid "Product Template"
+msgstr "Šabóna produktu"
+
+msgctxt "field:product.product,type:"
+msgid "Type"
+msgstr "Typ"
+
+msgctxt "field:product.product,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.product,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.template,active:"
+msgid "Active"
+msgstr "Aktívny"
+
+msgctxt "field:product.template,categories:"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "field:product.template,categories_all:"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "field:product.template,consumable:"
+msgid "Consumable"
+msgstr "Spotrebný"
+
+msgctxt "field:product.template,cost_price:"
+msgid "Cost Price"
+msgstr "Náklady"
+
+msgctxt "field:product.template,cost_price_method:"
+msgid "Cost Price Method"
+msgstr "Metóda nákladov"
+
+msgctxt "field:product.template,cost_price_methods:"
+msgid "Cost Price Methods"
+msgstr "Metódy nákladov"
+
+msgctxt "field:product.template,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.template,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.template,default_uom:"
+msgid "Default UOM"
+msgstr ""
+
+msgctxt "field:product.template,default_uom_category:"
+msgid "Default UOM Category"
+msgstr ""
+
+msgctxt "field:product.template,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.template,list_price:"
+msgid "List Price"
+msgstr "Cenník"
+
+msgctxt "field:product.template,list_prices:"
+msgid "List Prices"
+msgstr "Cenníky"
+
+msgctxt "field:product.template,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:product.template,products:"
+msgid "Variants"
+msgstr "Varianty"
+
+msgctxt "field:product.template,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.template,type:"
+msgid "Type"
+msgstr "Typ"
+
+msgctxt "field:product.template,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.template,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.template-product.category,category:"
+msgid "Category"
+msgstr "Kategória"
+
+msgctxt "field:product.template-product.category,create_date:"
+msgid "Create Date"
+msgstr "Vytvo dátum"
+
+msgctxt "field:product.template-product.category,create_uid:"
+msgid "Create User"
+msgstr "Vytvo používateľa"
+
+msgctxt "field:product.template-product.category,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.template-product.category,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.template-product.category,template:"
+msgid "Template"
+msgstr "Šablóna"
+
+msgctxt "field:product.template-product.category,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.template-product.category,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.template-product.category.all,category:"
+msgid "Category"
+msgstr "Kategória"
+
+msgctxt "field:product.template-product.category.all,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.template-product.category.all,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.template-product.category.all,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.template-product.category.all,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.template-product.category.all,template:"
+msgid "Template"
+msgstr "Šablóna"
+
+msgctxt "field:product.template-product.category.all,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.template-product.category.all,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.uom,active:"
+msgid "Active"
+msgstr "Aktívny"
+
+msgctxt "field:product.uom,category:"
+msgid "Category"
+msgstr "Kategória"
+
+msgctxt "field:product.uom,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.uom,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.uom,digits:"
+msgid "Display Digits"
+msgstr "Zobrazené cifry"
+
+msgctxt "field:product.uom,factor:"
+msgid "Factor"
+msgstr "Faktor"
+
+msgctxt "field:product.uom,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.uom,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:product.uom,rate:"
+msgid "Rate"
+msgstr ""
+
+msgctxt "field:product.uom,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.uom,rounding:"
+msgid "Rounding Precision"
+msgstr "Presnosť zaokrúhľovania"
+
+msgctxt "field:product.uom,symbol:"
+msgid "Symbol"
+msgstr ""
+
+msgctxt "field:product.uom,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.uom,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:product.uom.category,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:product.uom.category,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:product.uom.category,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:product.uom.category,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:product.uom.category,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:product.uom.category,uoms:"
+msgid "Unit of Measures"
+msgstr "Jednotky merania"
+
+msgctxt "field:product.uom.category,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:product.uom.category,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "help:product.product,active:"
+msgid "Uncheck to exclude from future use."
+msgstr ""
+
+msgctxt "help:product.template,active:"
+msgid "Uncheck to exclude from future use."
+msgstr ""
+
+msgctxt "help:product.uom,active:"
+msgid "Uncheck to exclude from future use."
+msgstr ""
+
+msgctxt "help:product.uom,factor:"
+msgid ""
+"The coefficient for the formula:\n"
+"coef (base unit) = 1 (this unit)"
+msgstr ""
+
+msgctxt "help:product.uom,rate:"
+msgid ""
+"The coefficient for the formula:\n"
+"1 (base unit) = coef (this unit)"
+msgstr ""
+
+msgctxt "model:ir.action,name:act_category_list"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "model:ir.action,name:act_category_tree"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "model:ir.action,name:act_product_configuration_form"
+msgid "Product Configuration"
+msgstr "Konfigurácia produktu"
+
+msgctxt "model:ir.action,name:act_product_form"
+msgid "Variants"
+msgstr "Varianty"
+
+msgctxt "model:ir.action,name:act_product_from_template"
+msgid "Variants"
+msgstr "Varianty"
+
+msgctxt "model:ir.action,name:act_template_by_category"
+msgid "Product by Category"
+msgstr "Produkty podľa kategórie"
+
+msgctxt "model:ir.action,name:act_template_form"
+msgid "Products"
+msgstr "Produkty"
+
+msgctxt "model:ir.action,name:act_uom_category_form"
+msgid "Categories of Unit of Measure"
+msgstr "Kategórie mernyých jednotiek"
+
+msgctxt "model:ir.action,name:act_uom_form"
+msgid "Units of Measure"
+msgstr "Merné jednotky"
+
+msgctxt "model:ir.ui.menu,name:menu_category_list"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "model:ir.ui.menu,name:menu_category_tree"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "model:ir.ui.menu,name:menu_configuration"
+msgid "Configuration"
+msgstr "Configuration"
+
+msgctxt "model:ir.ui.menu,name:menu_main_product"
+msgid "Product"
+msgstr "Produkt"
+
+msgctxt "model:ir.ui.menu,name:menu_product"
+msgid "Variants"
+msgstr "Variants"
+
+msgctxt "model:ir.ui.menu,name:menu_product_configuration"
+msgid "Product Configuration"
+msgstr "Konfigurácia produktu"
+
+msgctxt "model:ir.ui.menu,name:menu_template"
+msgid "Products"
+msgstr "Products"
+
+msgctxt "model:ir.ui.menu,name:menu_uom_category_form"
+msgid "Categories"
+msgstr "Kategórie"
+
+msgctxt "model:ir.ui.menu,name:menu_uom_form"
+msgid "Units of Measure"
+msgstr "Merné jednotky"
+
+msgctxt "model:product.category,name:"
+msgid "Product Category"
+msgstr "Kategória produktu"
+
+msgctxt "model:product.configuration,name:"
+msgid "Product Configuration"
+msgstr "Konfigurácia produktu"
+
+msgctxt "model:product.configuration.default_cost_price_method,name:"
+msgid "Product Configuration Default Cost Price Method"
+msgstr ""
+
+msgctxt "model:product.cost_price,name:"
+msgid "Product Cost Price"
+msgstr "Náklady produktu"
+
+msgctxt "model:product.cost_price_method,name:"
+msgid "Product Cost Price Method"
+msgstr "Metódy nákladov produktu"
+
+msgctxt "model:product.list_price,name:"
+msgid "Product List Price"
+msgstr "Cenníky produktu"
+
+msgctxt "model:product.product,name:"
+msgid "Product Variant"
+msgstr "Variant produktu"
+
+msgctxt "model:product.template,name:"
+msgid "Product Template"
+msgstr "Šablóna produktu"
+
+msgctxt "model:product.template-product.category,name:"
+msgid "Template - Category"
+msgstr "Šablóna - Kategória"
+
+msgctxt "model:product.template-product.category.all,name:"
+msgid "Template - Category All"
+msgstr "Šablóna - všetky kategórie"
+
+msgctxt "model:product.uom,name:"
+msgid "Unit of measure"
+msgstr "Merná jednotka"
+
+msgctxt "model:product.uom,name:uom_are"
+msgid "Are"
+msgstr "Ár"
+
+msgctxt "model:product.uom,name:uom_carat"
+msgid "Carat"
+msgstr "Carat"
+
+msgctxt "model:product.uom,name:uom_centimeter"
+msgid "centimeter"
+msgstr "centimeter"
+
+msgctxt "model:product.uom,name:uom_cubic_centimeter"
+msgid "Cubic centimeter"
+msgstr "Kubický centimeter"
+
+msgctxt "model:product.uom,name:uom_cubic_foot"
+msgid "Cubic foot"
+msgstr "Kubická stopa"
+
+msgctxt "model:product.uom,name:uom_cubic_inch"
+msgid "Cubic inch"
+msgstr "Kubický palec"
+
+msgctxt "model:product.uom,name:uom_cubic_meter"
+msgid "Cubic meter"
+msgstr "Kubický meter"
+
+msgctxt "model:product.uom,name:uom_day"
+msgid "Day"
+msgstr "Deň"
+
+msgctxt "model:product.uom,name:uom_foot"
+msgid "Foot"
+msgstr "Stopa"
+
+msgctxt "model:product.uom,name:uom_gallon"
+msgid "Gallon"
+msgstr "Gallon"
+
+msgctxt "model:product.uom,name:uom_gram"
+msgid "Gram"
+msgstr "Gram"
+
+msgctxt "model:product.uom,name:uom_hectare"
+msgid "Hectare"
+msgstr "Hektár"
+
+msgctxt "model:product.uom,name:uom_hour"
+msgid "Hour"
+msgstr "Hodina"
+
+msgctxt "model:product.uom,name:uom_inch"
+msgid "Inch"
+msgstr "Palec"
+
+msgctxt "model:product.uom,name:uom_kilogram"
+msgid "Kilogram"
+msgstr "Kilogram"
+
+msgctxt "model:product.uom,name:uom_kilometer"
+msgid "Kilometer"
+msgstr "Kilometer"
+
+msgctxt "model:product.uom,name:uom_liter"
+msgid "Liter"
+msgstr "Liter"
+
+msgctxt "model:product.uom,name:uom_meter"
+msgid "Meter"
+msgstr "Meter"
+
+msgctxt "model:product.uom,name:uom_mile"
+msgid "Mile"
+msgstr "Míľa"
+
+msgctxt "model:product.uom,name:uom_millimeter"
+msgid "Millimeter"
+msgstr "Millimeter"
+
+msgctxt "model:product.uom,name:uom_minute"
+msgid "Minute"
+msgstr "Minúta"
+
+msgctxt "model:product.uom,name:uom_ounce"
+msgid "Ounce"
+msgstr "Ounce"
+
+msgctxt "model:product.uom,name:uom_pound"
+msgid "Pound"
+msgstr "Pound"
+
+msgctxt "model:product.uom,name:uom_second"
+msgid "Second"
+msgstr "Sekunda"
+
+msgctxt "model:product.uom,name:uom_square_centimeter"
+msgid "Square centimeter"
+msgstr "Štvorcový centimeter"
+
+msgctxt "model:product.uom,name:uom_square_foot"
+msgid "Square foot"
+msgstr "Štvorcová stopa"
+
+msgctxt "model:product.uom,name:uom_square_inch"
+msgid "Square inch"
+msgstr "Štvorcový palec"
+
+msgctxt "model:product.uom,name:uom_square_meter"
+msgid "Square meter"
+msgstr "Štvorcový meter"
+
+msgctxt "model:product.uom,name:uom_square_yard"
+msgid "Square yard"
+msgstr "Square yard"
+
+msgctxt "model:product.uom,name:uom_unit"
+msgid "Unit"
+msgstr "Jednotka"
+
+msgctxt "model:product.uom,name:uom_work_day"
+msgid "Work Day"
+msgstr "Pracovný deň"
+
+msgctxt "model:product.uom,name:uom_yard"
+msgid "Yard"
+msgstr "Yard"
+
+msgctxt "model:product.uom,symbol:uom_are"
+msgid "a"
+msgstr "a"
+
+msgctxt "model:product.uom,symbol:uom_carat"
+msgid "c"
+msgstr "c"
+
+msgctxt "model:product.uom,symbol:uom_centimeter"
+msgid "cm"
+msgstr "cm"
+
+msgctxt "model:product.uom,symbol:uom_cubic_centimeter"
+msgid "cm³"
+msgstr "cm³"
+
+msgctxt "model:product.uom,symbol:uom_cubic_foot"
+msgid "ft³"
+msgstr "ft³"
+
+msgctxt "model:product.uom,symbol:uom_cubic_inch"
+msgid "in³"
+msgstr "in³"
+
+msgctxt "model:product.uom,symbol:uom_cubic_meter"
+msgid "m³"
+msgstr "m³"
+
+msgctxt "model:product.uom,symbol:uom_day"
+msgid "d"
+msgstr "d"
+
+msgctxt "model:product.uom,symbol:uom_foot"
+msgid "ft"
+msgstr "ft"
+
+msgctxt "model:product.uom,symbol:uom_gallon"
+msgid "gal"
+msgstr "gal"
+
+msgctxt "model:product.uom,symbol:uom_gram"
+msgid "g"
+msgstr "g"
+
+msgctxt "model:product.uom,symbol:uom_hectare"
+msgid "ha"
+msgstr "ha"
+
+msgctxt "model:product.uom,symbol:uom_hour"
+msgid "h"
+msgstr "h"
+
+msgctxt "model:product.uom,symbol:uom_inch"
+msgid "in"
+msgstr "in"
+
+msgctxt "model:product.uom,symbol:uom_kilogram"
+msgid "kg"
+msgstr "kg"
+
+msgctxt "model:product.uom,symbol:uom_kilometer"
+msgid "km"
+msgstr "km"
+
+msgctxt "model:product.uom,symbol:uom_liter"
+msgid "l"
+msgstr "l"
+
+msgctxt "model:product.uom,symbol:uom_meter"
+msgid "m"
+msgstr "m"
+
+msgctxt "model:product.uom,symbol:uom_mile"
+msgid "mi"
+msgstr "mi"
+
+msgctxt "model:product.uom,symbol:uom_millimeter"
+msgid "mm"
+msgstr "mm"
+
+msgctxt "model:product.uom,symbol:uom_minute"
+msgid "min"
+msgstr "min"
+
+msgctxt "model:product.uom,symbol:uom_ounce"
+msgid "oz"
+msgstr "oz"
+
+msgctxt "model:product.uom,symbol:uom_pound"
+msgid "lb"
+msgstr "lb"
+
+msgctxt "model:product.uom,symbol:uom_second"
+msgid "s"
+msgstr "s"
+
+msgctxt "model:product.uom,symbol:uom_square_centimeter"
+msgid "cm²"
+msgstr "cm²"
+
+msgctxt "model:product.uom,symbol:uom_square_foot"
+msgid "ft²"
+msgstr "ft²"
+
+msgctxt "model:product.uom,symbol:uom_square_inch"
+msgid "in²"
+msgstr "in²"
+
+msgctxt "model:product.uom,symbol:uom_square_meter"
+msgid "m²"
+msgstr "m²"
+
+msgctxt "model:product.uom,symbol:uom_square_yard"
+msgid "yd²"
+msgstr "yd²"
+
+msgctxt "model:product.uom,symbol:uom_unit"
+msgid "u"
+msgstr "u"
+
+msgctxt "model:product.uom,symbol:uom_work_day"
+msgid "wd"
+msgstr "wd"
+
+msgctxt "model:product.uom,symbol:uom_yard"
+msgid "yd"
+msgstr "yd"
+
+msgctxt "model:product.uom.category,name:"
+msgid "Product uom category"
+msgstr "Produktová kategória merných jednotiek"
+
+msgctxt "model:product.uom.category,name:uom_cat_length"
+msgid "Length"
+msgstr "Dĺžka"
+
+msgctxt "model:product.uom.category,name:uom_cat_surface"
+msgid "Surface"
+msgstr "Povrh"
+
+msgctxt "model:product.uom.category,name:uom_cat_time"
+msgid "Time"
+msgstr "Čas"
+
+msgctxt "model:product.uom.category,name:uom_cat_unit"
+msgid "Units"
+msgstr "Jednotky"
+
+msgctxt "model:product.uom.category,name:uom_cat_volume"
+msgid "Volume"
+msgstr "Volume"
+
+msgctxt "model:product.uom.category,name:uom_cat_weight"
+msgid "Weight"
+msgstr "Váha"
+
+msgctxt "model:res.group,name:group_product_admin"
+msgid "Product Administration"
+msgstr "Administrácia produktu"
+
+msgctxt "selection:product.product,cost_price_method:"
+msgid "Average"
+msgstr "Priemer"
+
+msgctxt "selection:product.product,cost_price_method:"
+msgid "Fixed"
+msgstr "Fixný"
+
+msgctxt "selection:product.product,type:"
+msgid "Assets"
+msgstr "Aktíva"
+
+msgctxt "selection:product.product,type:"
+msgid "Goods"
+msgstr "Tovary"
+
+msgctxt "selection:product.product,type:"
+msgid "Service"
+msgstr "Služby"
+
+msgctxt "selection:product.template,cost_price_method:"
+msgid "Average"
+msgstr "Priemer"
+
+msgctxt "selection:product.template,cost_price_method:"
+msgid "Fixed"
+msgstr "Fixný"
+
+msgctxt "selection:product.template,type:"
+msgid "Assets"
+msgstr "Aktíva"
+
+msgctxt "selection:product.template,type:"
+msgid "Goods"
+msgstr "Tovary"
+
+msgctxt "selection:product.template,type:"
+msgid "Service"
+msgstr "Služba"
+
+msgctxt "view:product.category:"
+msgid "Children"
+msgstr "Potomkovia"
+
+msgctxt "view:product.template:"
+msgid "General"
+msgstr "Všeobecné"
