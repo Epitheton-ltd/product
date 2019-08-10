@@ -22,7 +22,7 @@ msgstr ""
 
 msgctxt "field:product.category,childs:"
 msgid "Children"
-msgstr "Sub-produkuty"
+msgstr "Sub-produkty"
 
 msgctxt "field:product.category,create_date:"
 msgid "Create Date"
